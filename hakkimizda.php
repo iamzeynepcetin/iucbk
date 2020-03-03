@@ -213,20 +213,4 @@ sağlar.</p>
     </section>
     <!-- ***** SON : EKIP***** -->
 
-    <section class="mosh-subscribe-newsletter-area bg-img bg-overlay-white section_padding_100" ;">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <div class="subscribe-newsletter-content text-center wow fadeIn" data-wow-delay="0.5s">
-                        <h2>Etkinliklerimizden Haberdar Olun!</h2>
-                        <form method="post" action="" >
-                            <input type="email" name="email" id="Email" placeholder="Mail adresinizi yazınız">
-                            <button type="submit">Abone Ol</button>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
   <?php include_once 'footer.php'; ?>

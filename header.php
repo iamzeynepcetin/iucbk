@@ -29,6 +29,9 @@
     <link href="css/responsive.css" rel="stylesheet">
 	<link href="css/all.min.css" rel="stylesheet">
 
+
+
+
 </head>
 
 <body>
@@ -58,7 +61,7 @@
 									<li class="nav-item"><a class="nav-link" href="bilfest/index.html">BİLFEST'20</a></li>
                                     <li class="nav-item"><a class="nav-link" href="etkinlikler.php">ETKİNLİKLERİMİZ</a></li>
 									<li class="nav-item"><a class="nav-link" href="bize-katilin.php">BİZE KATILIN!</a></li>	
-									<li class="nav-item"><a class="nav-link" href="iletisim.php">İLETİŞİM</a></li>	
+								
                                    
                                 </ul>
 

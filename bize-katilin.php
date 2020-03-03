@@ -5,7 +5,7 @@
             <div class="row h-100 align-items-center">
                 <div class="col-12">
                     <div class="bradcumbContent">
-                        <h2>Bize Katılın</h2>
+                        <h2>Bize Katılın!</h2>
                     </div>
                 </div>
             </div>
@@ -19,7 +19,7 @@
             <div class="row align-items-center">
                 <div class="col-12 col-md-12">
                     <div class="mosh-about-us-content" style="text-align: center;">
-                        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdIU6UD66vZ0HJLvA4K6vrHNmb8cj89OECk9lPQNsX19luQIA/viewform?embedded=true" width="640" height="1521" frameborder="0" marginheight="0" marginwidth="0">Yükleniyor…</iframe>
+                    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf115-0WkQp9Vl1LcqfPg_B3iyBIMXbnsHCsr_jmLmaNj7Mvg/viewform?embedded=true" width="640" height="1654" frameborder="0" marginheight="0" marginwidth="0">Yükleniyor…</iframe>
                     </div>
                 </div>
             </div>

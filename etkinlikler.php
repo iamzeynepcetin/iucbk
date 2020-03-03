@@ -36,117 +36,115 @@
         <div class="mosh-portfolio">
             <!-- Single gallery Item Start -->
             <div class="single_gallery_item gd">
-                <img src="img/portfolio-img/proje.png" alt="">
+                <img src="img/etkinlik/proje1.png" alt="">
                 <div class="gallery-hover-overlay d-flex align-items-center justify-content-center">
+                    <div class="port-hover-text text-center">
+                        <h4>DFR Corp. Branding</h4>
+                        
+                    </div>
                 </div>
             </div>
             <!-- Single gallery Item Start -->
             <div class="single_gallery_item bi">
-                <img src="img/portfolio-img/atolye.png" alt="">
-                <div class="gallery-hover-overlay d-flex align-items-center justify-content-center">
-                </div>
-            </div>
-            <!-- Single gallery Item Start -->
-            <div class="single_gallery_item gd bi">
-                <img src="img/portfolio-img/3.jpg" alt="">
+                <img src="img/etkinlik/atolye1.png" alt="">
                 <div class="gallery-hover-overlay d-flex align-items-center justify-content-center">
                     <div class="port-hover-text text-center">
                         <h4>DFR Corp. Branding</h4>
-                        <a href="#">Brand Identity</a>
+                       
+                    </div>
+                </div>
+            </div>
+            <!-- Single gallery Item Start -->
+            <div class="single_gallery_item gd">
+                <img src="img/etkinlik/proje2.jpg" alt="">
+                <div class="gallery-hover-overlay d-flex align-items-center justify-content-center">
+                    <div class="port-hover-text text-center">
+                        <h4>DFR Corp. Branding</h4>
+                        
                     </div>
                 </div>
             </div>
             <!-- Single gallery Item Start -->
             <div class="single_gallery_item pho">
-                <img src="img/portfolio-img/sektor.jpg" alt="">
+                <img src="img/etkinlik/sektor1.jpg" alt="">
                 <div class="gallery-hover-overlay d-flex align-items-center justify-content-center">
                     <div class="port-hover-text text-center">
                         <h4>DFR Corp. Branding</h4>
-                        <a href="#">Brand Identity</a>
+                        
                     </div>
                 </div>
             </div>
             <!-- Single gallery Item Start -->
             <div class="single_gallery_item pho">
-                <img src="img/portfolio-img/sektor1.png" alt="">
+                <img src="img/etkinlik/sektor2.png" alt="">
                 <div class="gallery-hover-overlay d-flex align-items-center justify-content-center">
                     <div class="port-hover-text text-center">
                         <h4>DFR Corp. Branding</h4>
-                        <a href="#">Brand Identity</a>
-                    </div>
-                </div>
-            </div>
-            <!-- Single gallery Item Start -->
-            <div class="single_gallery_item wd pc">
-                <img src="img/portfolio-img/6.jpg" alt="">
-                <div class="gallery-hover-overlay d-flex align-items-center justify-content-center">
-                    <div class="port-hover-text text-center">
-                        <h4>DFR Corp. Branding</h4>
-                        <a href="#">Brand Identity</a>
+                        
                     </div>
                 </div>
             </div>
             <!-- Single gallery Item Start -->
             <div class="single_gallery_item wd">
-                <img src="img/portfolio-img/7.jpg" alt="">
+                <img src="img/etkinlik/coffeetalks1.png" alt="">
                 <div class="gallery-hover-overlay d-flex align-items-center justify-content-center">
                     <div class="port-hover-text text-center">
                         <h4>DFR Corp. Branding</h4>
-                        <a href="#">Brand Identity</a>
+                        
                     </div>
                 </div>
             </div>
             <!-- Single gallery Item Start -->
-            <div class="single_gallery_item pc">
-                <img src="img/portfolio-img/8.jpg" alt="">
+            <div class="single_gallery_item wd">
+                <img src="img/etkinlik/coffeetalks2.png" alt="">
                 <div class="gallery-hover-overlay d-flex align-items-center justify-content-center">
                     <div class="port-hover-text text-center">
                         <h4>DFR Corp. Branding</h4>
-                        <a href="#">Brand Identity</a>
+                        
                     </div>
                 </div>
             </div>
             <!-- Single gallery Item Start -->
-            <div class="single_gallery_item pc">
-                <img src="img/portfolio-img/9.jpg" alt="">
+            <div class="single_gallery_item wd">
+                <img src="img/etkinlik/coffeetalks3.png" alt="">
                 <div class="gallery-hover-overlay d-flex align-items-center justify-content-center">
                     <div class="port-hover-text text-center">
                         <h4>DFR Corp. Branding</h4>
-                        <a href="#">Brand Identity</a>
+                       
                     </div>
                 </div>
             </div>
             <!-- Single gallery Item Start -->
-            <div class="single_gallery_item pc">
-                <img src="img/portfolio-img/10.jpg" alt="">
+            <div class="single_gallery_item bi">
+                <img src="img/etkinlik/atolye2.jpg" alt="">
                 <div class="gallery-hover-overlay d-flex align-items-center justify-content-center">
                     <div class="port-hover-text text-center">
                         <h4>DFR Corp. Branding</h4>
-                        <a href="#">Brand Identity</a>
+                        
                     </div>
                 </div>
             </div>
             <!-- Single gallery Item Start -->
-            <div class="single_gallery_item pc">
-                <img src="img/portfolio-img/11.jpg" alt="">
+            <div class="single_gallery_item bi">
+                <img src="img/etkinlik/atolye3.png" alt="">
                 <div class="gallery-hover-overlay d-flex align-items-center justify-content-center">
                     <div class="port-hover-text text-center">
                         <h4>DFR Corp. Branding</h4>
-                        <a href="#">Brand Identity</a>
+                       
                     </div>
                 </div>
             </div>
             <!-- Single gallery Item Start -->
-            <div class="single_gallery_item pc">
-                <img src="img/portfolio-img/12.jpg" alt="">
+            <div class="single_gallery_item pho">
+                <img src="img/etkinlik/sektor3.jpg" alt="">
                 <div class="gallery-hover-overlay d-flex align-items-center justify-content-center">
                     <div class="port-hover-text text-center">
                         <h4>DFR Corp. Branding</h4>
-                        <a href="#">Brand Identity</a>
+                        
                     </div>
                 </div>
             </div>
-        </div>
+         
 
     </section>
     <!-- ***** Portfolio Area End ***** -->

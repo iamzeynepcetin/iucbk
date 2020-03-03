@@ -11,7 +11,7 @@
                     </div>
                     <div class="col-4 col-sm-4 col-lg-4">
                         <div class="single-footer-widget mb-100" style="text-align:left;">
-                            <h5>Bize Ulaşın</h5>
+                            <h5>İLETİŞİM</h5>
                             <div class="footer-single-contact-info d-flex">
                                 <div class="contact-icon">
                                     <i class="fa fa-map-marker" aria-hidden="true" style="color:blue;style="font-size:30px;"></i>
@@ -70,8 +70,8 @@
     </footer>
     <!-- ***** Footer Area End ***** -->
 
-    <!-- jQuery-2.2.4 js -->
-    <script src="js/jquery-2.2.4.min.js"></script>
+        <!-- jQuery-2.2.4 js -->
+        <script src="js/jquery-2.2.4.min.js"></script>
     <!-- Popper js -->
     <script src="js/popper.min.js"></script>
     <!-- Bootstrap js -->
@@ -80,6 +80,7 @@
     <script src="js/plugins.js"></script>
     <!-- Active js -->
    <script src="js/active.js"></script>
+
 </body>
 
 </html>

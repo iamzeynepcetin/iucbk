@@ -7,15 +7,13 @@
             <!-- Single Hero Slides -->
             <div class="single-hero-slide d-flex align-items-end justify-content-center">
                 <div class="hero-slide-content text-center">
-                    <img class="slide-img" src="img/bg-img/iucbk.png" style="margin-top:-50rem;max-height:75rem;max-width:75rem;" alt="">
+                    <img class="slide-img" src="img/logo/iucbk.png" style="margin-top:-50rem;max-height:75rem;max-width:75rem;" alt="">
                 </div>
             </div>
             <!-- Single Hero Slides -->
             <div class="single-hero-slide d-flex align-items-end justify-content-center">
                 <div class="hero-slide-content text-center">
-                    <h2>BILFEST 2020</h2>
-                    <h4>BILFEST GELECEK!</h4>
-                    <img class="slide-img" src="img/bg-img/device.png" alt="">
+                <a href="bilfest/index.html">    <img class="slide-img" src="img/logo/device.png" style ="margin-top:-55rem;"alt=""> </a>
                 </div>
             </div>
         </div>
@@ -61,11 +59,11 @@
                 </div>
                 <div class="col-12">
                     <div class="clients-logo-area d-sm-flex align-items-center justify-content-between">
-                        <a href="#"><img src="img/clients-img/ibtech.png" alt=""></a>
-                        <a href="#"><img src="img/clients-img/2.png" alt=""></a>
-                        <a href="#"><img src="img/clients-img/3.png" alt=""></a>
-                        <a href="#"><img src="img/clients-img/4.png" alt=""></a>
-                        <a href="#"><img src="img/clients-img/5.png" alt=""></a>
+                        <a href="#"><img src="img/logo/ibtech.png" alt=""></a>
+                        <a href="#"><img src="img/logo/bilgeadam.png" alt=""></a>
+                        <a href="#"><img src="" alt=""></a>
+                        <a href="#"><img src="" alt=""></a>
+                        <a href="#"><img src="" alt=""></a>
                     </div>
                 </div>
             </div>
@@ -90,30 +88,30 @@
 
         <div class="single-more-service-area">
             <div class="more-service-content text-center wow fadeInUp" data-wow-delay=".1s">
-                <img src="img/core-img/1.png" alt="">
+                <img src="img/logo/1.png" alt="">
                 <h4>Projeler</h4>
-                <p>Nec odio vestibulum est mattis effic iturut magna. Pellentesque sit am.</p>
+                <p>Okulda edinilen bilgilerin hayata geçirilmesini sağlıyor , parlak fikirlerin gerçeklenmesine yardımcı oluyoruz.</p>
             </div>
         </div>
         <div class="single-more-service-area">
             <div class="more-service-content text-center wow fadeInUp" data-wow-delay=".4s">
-                <img src="img/core-img/2.png" alt="">
+                <img src="img/logo/2.png" alt="">
                 <h4>Eğitimler</h4>
-                <p>Tiam nec odio vestibulum est mattis effic iturut magna. Pellentesque sit am.</p>
+                <p>Bilgi paylaşıldıkça çoğalır mottosuyla öğrencilerimizin ilgi duyduğu her alanda eğitim görebilmesine aracı oluyoruz.</p>
             </div>
         </div>
         <div class="single-more-service-area">
             <div class="more-service-content text-center wow fadeInUp" data-wow-delay=".7s">
-                <img src="img/core-img/3.png" alt="">
+                <img src="img/logo/3.png" alt="">
                 <h4>Sektör Buluşmaları</h4>
-                <p>Etiam nec odio vestibulum est mattis effic iturut magna. Pellentesque sit am.</p>
+                <p>Sektörde söz sahibi şirketlere teknik geziler düzenliyor , öğrencilerimize sektörü birebir deneyimleme imkanı sunuyoruz.</pç>
             </div>
         </div>
         <div class="single-more-service-area">
             <div class="more-service-content text-center wow fadeInUp" data-wow-delay="1s">
-                <img src="img/core-img/4.png" alt="">
+                <img src="img/logo/4.png" alt="">
                 <h4>CoffeeTalks</h4>
-                <p>Etiam nec odio vestibulum est mattis effic iturut magna. Pellentesque sit am.</p>
+                    <p>Öğrencilerimizi yazılım alanına gönül vermiş bireylerle buluşturuyor , tecrübelerinden faydalanmalarını sağlıyoruz. </p>
             </div>
         </div>
     </section>
