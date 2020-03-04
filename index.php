@@ -7,13 +7,13 @@
             <!-- Single Hero Slides -->
             <div class="single-hero-slide d-flex align-items-end justify-content-center">
                 <div class="hero-slide-content text-center">
-                    <img class="slide-img" src="img/logo/iucbk.png" style="margin-top:-50rem;max-height:75rem;max-width:75rem;" alt="">
+                    <img class="slide-img" src="img/logo/iucbk2.png" alt="">
                 </div>
             </div>
             <!-- Single Hero Slides -->
             <div class="single-hero-slide d-flex align-items-end justify-content-center">
                 <div class="hero-slide-content text-center">
-                <a href="bilfest/index.html">    <img class="slide-img" src="img/logo/device.png" style ="margin-top:-55rem;"alt=""> </a>
+                <a href="bilfest/index.html"><img class="slide-img" src="img/logo/device.png" alt=""> </a>
                 </div>
             </div>
         </div>
@@ -25,8 +25,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <div class="section-heading text-center" style="margin-bottom:-20rem;">
-                  
+                    <div class="section-heading text-center">
+
                         <h1>MİSYONUMUZ</h1>
                     </div>
                 </div>
@@ -35,10 +35,10 @@
     </section>
 	<section class="mosh-aboutUs-area section_padding_100_0">
         <div class="container">
-            <div class="row align-items-center" style="text-align:center; margin-top:-3rem;">
+            <div class="row align-items-center text-center">
                 <div class="col-12 col-md-12">
                     <div class="mosh-about-us-content">
-                    <p style="color: black; font-family: Verdana; font-size: 20px;">İstanbul Üniversitesi Cerrahpaşa Bilgisayar Kulübü olarak amacımız , dünya genelindeki teknolojik gelişmeleri sadece takip etmekle kalmayıp, bu gelişmelere katkıda bulunabilecek ve insanlığa yararlı olacak projelerde yer alacak nitelikli bireyler yetiştirmek, üyelerimizin sektörü tanımalarını sağlamak , çeşitli eğitimler alabilecekleri ortam sunmak , aynı zamanda sosyal anlamda da başarılı bir birey olmalarına katkıda bulunmaktır. </p>
+                    <p class="misyon-p">İstanbul Üniversitesi Cerrahpaşa Bilgisayar Kulübü olarak amacımız , dünya genelindeki teknolojik gelişmeleri sadece takip etmekle kalmayıp, bu gelişmelere katkıda bulunabilecek ve insanlığa yararlı olacak projelerde yer alacak nitelikli bireyler yetiştirmek, üyelerimizin sektörü tanımalarını sağlamak , çeşitli eğitimler alabilecekleri ortam sunmak , aynı zamanda sosyal anlamda da başarılı bir birey olmalarına katkıda bulunmaktır. </p>
                     </div>
                 </div>
             </div>
@@ -104,7 +104,7 @@
             <div class="more-service-content text-center wow fadeInUp" data-wow-delay=".7s">
                 <img src="img/logo/3.png" alt="">
                 <h4>Sektör Buluşmaları</h4>
-                <p>Sektörde söz sahibi şirketlere teknik geziler düzenliyor , öğrencilerimize sektörü birebir deneyimleme imkanı sunuyoruz.</pç>
+                <p>Sektörde söz sahibi şirketlere teknik geziler düzenliyor , öğrencilerimize sektörü birebir deneyimleme imkanı sunuyoruz.</p>
             </div>
         </div>
         <div class="single-more-service-area">

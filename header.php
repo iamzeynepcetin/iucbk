@@ -49,7 +49,7 @@
                     <div class="menu_area h-100">
                         <nav class="navbar h-100 navbar-expand-lg align-items-center">
                             <!-- Logo -->
-                            <a class="navbar-brand" href="index.php"><img src="img/core-img/logo.png" alt="logo"></a>
+                            <a class="navbar-brand" href="index.php"><img src="img/logo/logo.png" alt="logo"></a>
 
                             <!-- Menu Area -->
                             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mosh-navbar" aria-controls="mosh-navbar" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
@@ -60,9 +60,9 @@
                                     <li class="nav-item"><a class="nav-link" href="hakkimizda.php">HAKKIMIZDA</a></li>
 									<li class="nav-item"><a class="nav-link" href="bilfest/index.html">BİLFEST'20</a></li>
                                     <li class="nav-item"><a class="nav-link" href="etkinlikler.php">ETKİNLİKLERİMİZ</a></li>
-									<li class="nav-item"><a class="nav-link" href="bize-katilin.php">BİZE KATILIN!</a></li>	
-								
-                                   
+									<li class="nav-item"><a class="nav-link" href="https://docs.google.com/forms/d/e/1FAIpQLSf115-0WkQp9Vl1LcqfPg_B3iyBIMXbnsHCsr_jmLmaNj7Mvg/viewform?usp=sf_link">BİZE KATILIN!</a></li>
+
+
                                 </ul>
 
                             </div>

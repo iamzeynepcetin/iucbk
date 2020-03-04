@@ -15,13 +15,14 @@
     </div>
     <!-- ***** Breadcumb Area End ***** -->
     
-    <div style="text-align:center;">
-    <h3 style="margin-bottom:5rem;">Gelecek Etkinliklerimiz </h3> 
+    <div  class="text-center" >
+    <h3 class="section_padding_0_50"> Etkinlik Takvimi  </h3>
     <iframe src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FIstanbul&amp;src=aXVia29yZ0BnbWFpbC5jb20&amp;src=YWRkcmVzc2Jvb2sjY29udGFjdHNAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;src=bXBoZmlidm5rdmxtcDJrdG12Y3Zlb2Uybm9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=ZW4udHVya2lzaCNob2xpZGF5QGdyb3VwLnYuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=dHIudHVya2lzaCNob2xpZGF5QGdyb3VwLnYuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23039BE5&amp;color=%2333B679&amp;color=%237986CB&amp;color=%230B8043&amp;color=%230B8043" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
     </div>
-        <!-- ***** Portfolio Area Start ***** -->
-    <section class="mosh-portfolio-area section_padding_100">
-    <h3 style="margin-bottom:5rem;text-align:center;">Tamamlanan Etkinliklerimiz</h3> 
+
+
+    <section class="mosh-portfolio-area section_padding_100 text-center">
+    <h3  class="text-center section_padding_0_50">Etkinliklerimiz</h3>
         <div class="container">
             <div class="row">
                 <div class="col-12">
@@ -31,7 +32,7 @@
                             <p data-filter=".gd">Projeler</p>
                             <p data-filter=".bi">Eğitimler</p>
                             <p data-filter=".pho">Sektör Buluşmaları</p>
-                            <p data-filter=".wd">CoffeTalks</p>
+                            <p data-filter=".wd">CoffeeTalks</p>
                         </div>
                     </div>
                 </div>
