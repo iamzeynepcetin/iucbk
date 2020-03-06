@@ -118,92 +118,130 @@ sağlar.</p>
                     </div>
                 </div>
             </div>
-
+            <div class="container">
             <div class="row">
-                <div class="col-12">
-                    <div class="mosh-team-slides owl-carousel">
                         <!-- Single Team Slide -->
-                        <div class="single-team-slide text-center">
+                        <div class="single-team-slide text-center col">
                             <!-- Thumbnail -->
                             <div class="team-thumbnail">
                                 <img src="img/bg-img/c-1.jpg" alt="">
                             </div>
                             <!-- Meta Info -->
                             <div class="team-meta-info">
-                                <h4>Zeynep G</h4>
-                                <span>Kulüp Başkanı</span>
-								 <a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                                <h4>Zeynep GÖK</h4>
+                                <span>Yönetim Kurulu Başkanı</span>
+								 <a href="https://www.linkedin.com/in/zeynepgok/"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
                                
                             </div>
                         </div>
                         <!-- Single Team Slide -->
-                         <div class="single-team-slide text-center">
+                         <div class="single-team-slide text-center col ">
                             <!-- Thumbnail -->
                             <div class="team-thumbnail">
                                 <img src="img/bg-img/c-1.jpg" alt="">
                             </div>
                             <!-- Meta Info -->
                             <div class="team-meta-info">
-                                <h4>Eda Nur V</h4>
-                                <span>Kulüp Başkan Yardımcısı</span>
-							<a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                                <h4>Eda Nur VAR</h4>
+                                <span>Yönetim Kurulu Başkan Yardımcısı</span>
+							<a href="https://www.linkedin.com/in/edanurvar/"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
                                
                             </div>
                         </div>
                         <!-- Single Team Slide -->
-                             <div class="single-team-slide text-center">
+                             <div class="single-team-slide text-center col">
                             <!-- Thumbnail -->
                             <div class="team-thumbnail">
                                 <img src="img/bg-img/c-1.jpg" alt="">
                             </div>
                             <!-- Meta Info -->
                             <div class="team-meta-info">
-                                <h4>Zeynep C</h4>
-                                <span>Kulüp Finans Direktörü</span>
-								<a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                                <h4>Zeynep ÇETİN</h4>
+                                <span>Yönetim Kurulu Finansal Direktörü</span>
+								<a href="https://www.linkedin.com/in/zcetin/"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
                                
                             </div>
                         </div>
-                          <!-- Single Team Slide -->
-                        <div class="single-team-slide text-center">
-                            <!-- Thumbnail -->
-                            <div class="team-thumbnail">
-                                <img src="img/bg-img/c-1.jpg" alt="">
-                            </div>
-                            <!-- Meta Info -->
-                            <div class="team-meta-info">
-                                <h4>Zeynep Sena Y</h4>
-                                <span>Kulüp Yazmanı</span>
-								 <a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-                               
-                            </div>
-                        </div>
+
+                <!-- Single Team Slide -->
+                <div class="single-team-slide text-center col">
+                    <!-- Thumbnail -->
+                    <div class="team-thumbnail">
+                        <img src="img/bg-img/c-1.jpg" alt="">
+                    </div>
+                    <!-- Meta Info -->
+                    <div class="team-meta-info">
+                        <h4>Z. Sena YURDADUR</h4>
+                        <span>Yönetim Kurulu Sekreteri</span>
+                        <a href="https://www.linkedin.com/in/zeynep-sena-yurdadur-78b0b517a/"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+
+                    </div>
+                </div>
 					    <!-- Single Team Slide -->
-                             <div class="single-team-slide text-center">
+                             <div class="single-team-slide text-center col">
                             <!-- Thumbnail -->
                             <div class="team-thumbnail">
                                 <img src="img/bg-img/c-1.jpg" alt="">
                             </div>
                             <!-- Meta Info -->
                             <div class="team-meta-info">
-                                <h4>Sinan G</h4>
-                                <span>Sponsorluk Komite Başkanı</span>
-								<a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                                <h4>Asmaa MIRKHAN</h4>
+                                <span>Yönetim Kurulu Üyesi</span>
+								<a href="https://www.linkedin.com/in/asmaamirkhan/"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
                                
                             </div>
                         </div>
+            </div>
 						<!-- Single Team Slide -->
-                             <div class="single-team-slide text-center">
+                <div class="row">
+                    <div class="single-team-slide text-center col">
+                        <!-- Thumbnail -->
+                        <div class="team-thumbnail">
+                            <img src="img/bg-img/c-1.jpg" alt="">
+                        </div>
+                        <!-- Meta Info -->
+                        <div class="team-meta-info">
+                            <h4>Sinan GÖÇMEZ</h4>
+                            <span >Medya ve Sponsorluk Komitesi Başkanı</span>
+                            <a href="https://www.linkedin.com/in/sinan-g%C3%B6%C3%A7mez-a741526b/"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                        </div>
+                    </div>
+                             <div class="single-team-slide text-center col">
                             <!-- Thumbnail -->
                             <div class="team-thumbnail">
                                 <img src="img/bg-img/c-1.jpg" alt="">
                             </div>
                             <!-- Meta Info -->
                             <div class="team-meta-info">
-                                <h4>Rahim G</h4>
-                                <span >Sponsorluk Komite Başkanı</span>
-								<a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-                               
+                                <h4>Rahim GÖKÇELİ</h4>
+                                <span >Proje Komitesi Başkanı</span>
+								<a href="https://www.linkedin.com/in/rahim-g%C3%B6k%C3%A7eli-6a32b0156/"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                            </div>
+                        </div>
+
+
+                        <div class="single-team-slide text-center col">
+                            <!-- Thumbnail -->
+                            <div class="team-thumbnail">
+                                <img src="img/bg-img/c-1.jpg" alt="">
+                            </div>
+                            <!-- Meta Info -->
+                            <div class="team-meta-info">
+                                <h4>Cebrail YILMAZ</h4>
+                                <span >Organizasyon Komitesi Başkanı</span>
+                                <a href="https://www.linkedin.com/in/cebrail-y%C4%B1lmaz-83a64ab3/"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                            </div>
+                        </div>
+                        <div class="single-team-slide text-center col">
+                            <!-- Thumbnail -->
+                            <div class="team-thumbnail">
+                                <img src="img/bg-img/c-1.jpg" alt="">
+                            </div>
+                            <!-- Meta Info -->
+                            <div class="team-meta-info">
+                                <h4>Aysu Nur TERZİ</h4>
+                                <span >Eğitim Komitesi Başkanı</span>
+                                <a href="https://www.linkedin.com/in/rahim-g%C3%B6k%C3%A7eli-6a32b0156/"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
                             </div>
                         </div>
                     </div>

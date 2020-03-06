@@ -1756,6 +1756,18 @@ span.accor-open {
 .komiteler{
     margin:60px 0px 30px 0px;
 }
+.bize-katilin{
+    width:60%;
+    height: 1000px;
+
+}
+@media only screen and (max-width: 768px){
+
+    .bize-katilin{
+        margin-top: -60px;
+        width:80%;
+    }
+}
 
 /* --------------------------------
 ============= The End =============

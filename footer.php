@@ -32,28 +32,28 @@
 					 <div class="col-2 col-sm-2 col-lg-2" style="margin-top:3rem; ">
                         <div class="single-footer-widget mb-100">
                             <div class="footer-single-contact-info d-flex">
-                                <div class="contact-icon"style="font-size:30px;" >
-									 <a href="https://www.linkedin.com/company/i%CC%87%C3%BCc-bilgisayar-kul%C3%BCb%C3%BC/?trk=public_profile_volunteering_position_result-card_full-click&originalSubdomain=tr"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                                <div class="contact-icon" >
+									 <a href="https://www.linkedin.com/company/i%CC%87%C3%BCc-bilgisayar-kul%C3%BCb%C3%BC/?trk=public_profile_volunteering_position_result-card_full-click&originalSubdomain=tr"><i class="fa fa-linkedin" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;&nbsp;/iucbk</a>
                                 </div>
                             </div>
 							<div class="footer-single-contact-info d-flex">
-                                <div class="contact-icon"style="font-size:30px;">
-									 <a href="https://www.instagram.com/iucbk/?hl=tr"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+                                <div class="contact-icon">
+									 <a href="https://www.instagram.com/iucbk/?hl=tr"><i class="fa fa-instagram" aria-hidden="true"></i>&emsp;/iucbk</a>
                                 </div>
                             </div>
 							<div class="footer-single-contact-info d-flex">
-                                <div class="contact-icon" style="font-size:30px;">
-									 <a href="https://twitter.com/iucbk"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                                <div class="contact-icon" >
+									 <a href="https://twitter.com/iucbk"><i class="fa fa-twitter" aria-hidden="true"></i>&emsp;/iucbk</a>
                                 </div>
                             </div>
                           <div class="footer-single-contact-info d-flex">
-                                <div class="contact-icon"style="font-size:30px;">
-									 <a href="https://www.facebook.com/iucbk/"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                                <div class="contact-icon">
+									 <a href="https://www.facebook.com/iucbk/"><i class="fa fa-facebook" aria-hidden="true"></i>&emsp;&nbsp;/iucbk</a>
                                 </div>
                             </div>
 							<div class="footer-single-contact-info d-flex">
-                                <div class="contact-icon"style="font-size:30px;">
-									 <a href="https://github.com/iucbk"><i class="fa fa-github" aria-hidden="true"></i></a>
+                                <div class="contact-icon">
+									 <a href="https://github.com/iucbk"><i class="fa fa-github" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;&nbsp;/iucbk</a>
                                 </div>
                             </div>
 							

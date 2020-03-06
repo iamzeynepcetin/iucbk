@@ -19,7 +19,7 @@
             <div class="row align-items-center">
                 <div class="col-12 col-md-12">
                     <div class="mosh-about-us-content" style="text-align: center;">
-                    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf115-0WkQp9Vl1LcqfPg_B3iyBIMXbnsHCsr_jmLmaNj7Mvg/viewform?embedded=true" width="640" height="1654" frameborder="0" marginheight="0" marginwidth="0">Yükleniyor…</iframe>
+                    <iframe class="bize-katilin text-center" src="https://docs.google.com/forms/d/e/1FAIpQLSf115-0WkQp9Vl1LcqfPg_B3iyBIMXbnsHCsr_jmLmaNj7Mvg/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Yükleniyor…</iframe>
                     </div>
                 </div>
             </div>
