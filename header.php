@@ -2,6 +2,7 @@
 <html lang="tr">
 
 <head>
+    <link href="https://cdn.rawgit.com/nizarmah/calendar-javascript-lib/master/calendarorganizer.min.css" rel="stylesheet" />
 <style> 
 .social-margin{
 	margin-left:2rem;

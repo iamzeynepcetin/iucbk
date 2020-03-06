@@ -17,7 +17,12 @@
     
     <div  class="text-center" >
     <h3 class="section_padding_0_50"> Etkinlik Takvimi  </h3>
-    <iframe src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FIstanbul&amp;src=aXVia29yZ0BnbWFpbC5jb20&amp;src=YWRkcmVzc2Jvb2sjY29udGFjdHNAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;src=bXBoZmlidm5rdmxtcDJrdG12Y3Zlb2Uybm9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=ZW4udHVya2lzaCNob2xpZGF5QGdyb3VwLnYuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=dHIudHVya2lzaCNob2xpZGF5QGdyb3VwLnYuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23039BE5&amp;color=%2333B679&amp;color=%237986CB&amp;color=%230B8043&amp;color=%230B8043" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+        <div class="row">
+            <div class="col " "></div>
+        <div class="col center" id="calendarContainer"></div>
+        <div class="col center " id="organizerContainer" style="display: none"></div>
+        <div class="col" "></div>
+    </div>
     </div>
 
 
