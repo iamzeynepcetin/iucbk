@@ -54,7 +54,7 @@
                 <div class="col-12">
                     <div class="section-heading text-center">
                   
-                        <h1>SPONSORLARIMIZ</h1>
+                        <h1>DESTEKÇİLERİMİZ</h1>
                     </div>
                 </div>
                 <div class="col-12">

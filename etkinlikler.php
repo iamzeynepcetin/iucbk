@@ -67,6 +67,16 @@
             </div>
             <!-- Single gallery Item Start -->
             <div class="single_gallery_item gd">
+                <img src="img/etkinlik/proje3.jpg" alt="">
+                <div class="gallery-hover-overlay d-flex align-items-center justify-content-center">
+                    <div class="port-hover-text text-center">
+                        <h4>DFR Corp. Branding</h4>
+
+                    </div>
+                </div>
+            </div>
+            <!-- Single gallery Item Start -->
+            <div class="single_gallery_item gd">
                 <img src="img/etkinlik/proje2.jpg" alt="">
                 <div class="gallery-hover-overlay d-flex align-items-center justify-content-center">
                     <div class="port-hover-text text-center">

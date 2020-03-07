@@ -973,6 +973,8 @@ span.accor-open {
     font-size: 13px;
 }
 
+
+
 .footer-social-info>a {
     color: #abadbe;
     padding: 0 15px;
@@ -1013,6 +1015,7 @@ span.accor-open {
 
 .footer-single-contact-info .contact-icon {
     margin-right: 15px;
+
 }
 
 .footer-bottom-area {
@@ -1767,6 +1770,24 @@ span.accor-open {
         margin-top: -60px;
         width:80%;
     }
+}
+.sigdir{
+    width:20%;
+    height:20%;
+}
+
+.social-icon{
+    font-size: 30px;
+    margin-top: 130px;
+}
+.marker-icon{
+    font-size: 30px;
+    color: #007bff;
+    margin-right: 15px;
+}
+.address-text{
+    font-size: 18px;
+    color: #fff;
 }
 
 /* --------------------------------

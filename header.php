@@ -3,6 +3,7 @@
 
 <head>
     <link href="https://cdn.rawgit.com/nizarmah/calendar-javascript-lib/master/calendarorganizer.min.css" rel="stylesheet" />
+
 <style> 
 .social-margin{
 	margin-left:2rem;
@@ -58,9 +59,9 @@
                             <div class="collapse navbar-collapse justify-content-end" id="mosh-navbar">
                                 <ul class="navbar-nav animated" id="nav">
                                     <li class="nav-item <?php if(basename($_SERVER["SCRIPT_NAME"])=="index.php") echo "active";?> "><a class="nav-link" href="index.php">ANASAYFA</a></li>
-                                    <li class="nav-item <?php if(basename($_SERVER["SCRIPT_NAME"])=="hakkimizda.php") echo "active"; ?>"><a class="nav-link" href="hakkimizda.php">HAKKIMIZDA</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="bilfest/index.html">BİLFEST'20</a></li>
                                     <li class="nav-item <?php if(basename($_SERVER["SCRIPT_NAME"])=="etkinlikler.php") echo "active";?>"><a class="nav-link" href="etkinlikler.php">ETKİNLİKLERİMİZ</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="bilfest/index.html">BİLFEST'20</a></li>
+                                    <li class="nav-item <?php if(basename($_SERVER["SCRIPT_NAME"])=="hakkimizda.php") echo "active"; ?>"><a class="nav-link" href="hakkimizda.php">HAKKIMIZDA</a></li>
 									<li class="nav-item <?php if(basename($_SERVER["SCRIPT_NAME"])=="bize-katilin.php") echo "active";?>"><a class="nav-link" href="bize-katilin.php">BİZE KATILIN!</a></li>
 
 
