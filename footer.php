@@ -3,69 +3,69 @@
     <!-- Top Fotter Area -->
     <div class="top-footer-area section_padding_100_0">
         <div class="container">
-                <div class="row">
-                    <div class="col col-sm-6 col-lg-4">
-                        <div class="single-footer-widget mb-100">
-                            <a href="#" class="mb-50 d-block"><img src="img/core-img/iucbk2.png" alt=""></a>
-                        </div>
+            <div class="row">
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <div class="single-footer-widget mb-100">
                     </div>
-
-                    <div class="single-footer-widget mb-100 col-4" style="text-align:left;">
+                </div>
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <div class="single-footer-widget mb-100">
+                        <a href="#" class="mb-50 d-block"><img src="img/core-img/iucbk2.png" alt=""></a>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <div class="single-footer-widget mb-100">
                         <h5>İLETİŞİM</h5>
                         <div class="footer-single-contact-info d-flex ">
                             <div class="marker-icon">
                                 <i class="fa fa-map-marker" aria-hidden="true"></i>
                             </div>
-                            <p class="address-text">Adres: İstanbul Üniversitesi-Cerrahpaşa <br> Avcılar Kampüsü 34320<br> Avcılar/İstanbul</p>
+                            <p class="address-text">Adres: İstanbul Üniversitesi-Cerrahpaşa <br> Avcılar Kampüsü 34320<br>
+                                Avcılar/İstanbul</p>
                         </div>
-
                         <div class="footer-single-contact-info d-flex text-center">
                             <div class="contact-icon">
                                 <img src="img/core-img/message.png" alt="">
                             </div>
                             <a title="" href="mailto:iubkorg@gmail.com" target=" _blank" style="color :#FFFFFF;">iubkorg@gmail.com</a>
                         </div>
-                    </div>
-                    <div class="col">
-                        <div class="social-icon ">
-                            <a href="https://www.linkedin.com/company/iucbk"><i
-                                    class="fa fa-linkedin" aria-hidden="true"></i></a>
-                        </div>
-                    </div>
-                    <div class="col">
-                        <div class="social-icon">
-                            <a href="https://www.instagram.com/iucbk/?hl=tr"><i class="fa fa-instagram"
-                                                                                aria-hidden="true"></i></a>
-                        </div>
-                    </div>
-                    <div class="col">
-                        <div class="social-icon">
-                            <a href="https://twitter.com/iucbk"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-                        </div>
-                    </div>
-                    <div class="col">
-                        <div class="social-icon">
-                            <i><a href="https://www.facebook.com/iucbk/"><i class="fa fa-facebook"
-                                                                            aria-hidden="true"></i></a>
-                        </div>
-                    </div>
-                    <div class="col">
-                        <div class="social-icon">
-                            <i><a href="https://github.com/iucbk"><i class="fa fa-github" aria-hidden="true"></i></a>
-                        </div>
-                    </div>
-                    </div>
 
+                        </div>
+                </div>
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <div class="single-footer-widget mb-100">
 
-
-
-    </div>
-    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
     <!-- Fotter Bottom Area -->
-
+    <div class="footer-bottom-area">
+        <div class="container h-100">
+            <div class="row h-100">
+                <div class="col-12 h-100">
+                    <div class="footer-bottom-content h-100 d-md-flex justify-content-between align-items-center">
+                        <div class="copyright-text">
+                            <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                               Designed by İÜCBK &copy;<script>document.write(new Date().getFullYear());</script>
+                            </p>
+                        </div>
+                        <div class="footer-social-info">
+                            <a href="https://www.linkedin.com/company/iucbk"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                            <a href="https://www.instagram.com/iucbk"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+                            <a href="https://twitter.com/iucbk"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                            <a href="https://www.facebook.com/iucbk"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                            <a href="https://github.com/iucbk"><i class="fa fa-github" aria-hidden="true"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </footer>
 <!-- ***** Footer Area End ***** -->
+
 
 <!-- jQuery-2.2.4 js -->
 <script src="js/jquery-2.2.4.min.js"></script>

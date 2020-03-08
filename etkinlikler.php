@@ -7,27 +7,31 @@
                 <div class="col-12">
                     <div class="bradcumbContent">
                         <h2>Etkinliklerimiz</h2>
-                       
+
                     </div>
                 </div>
             </div>
         </div>
     </div>
     <!-- ***** Breadcumb Area End ***** -->
-    
-    <div  class="text-center" >
-    <h3 class="section_padding_0_50"> Etkinlik Takvimi  </h3>
+
+    <div class="text-center">
+        <h3 class="section_padding_0_50"> Etkinlik Takvimi </h3>
         <div class="row">
-            <div class="col " "></div>
+            <div class="col "
+            ">
+        </div>
         <div class="col center" id="calendarContainer"></div>
         <div class="col center " id="organizerContainer" style="display: none"></div>
-        <div class="col" "></div>
+        <div class="col"
+        ">
+    </div>
     </div>
     </div>
 
 
     <section class="mosh-portfolio-area section_padding_100 text-center">
-    <h3  class="text-center section_padding_0_50">Etkinliklerimiz</h3>
+        <h3 class="text-center section_padding_0_50">Etkinliklerimiz</h3>
         <div class="container">
             <div class="row">
                 <div class="col-12">
@@ -51,7 +55,7 @@
                 <div class="gallery-hover-overlay d-flex align-items-center justify-content-center">
                     <div class="port-hover-text text-center">
                         <h4>DFR Corp. Branding</h4>
-                        
+
                     </div>
                 </div>
             </div>
@@ -61,7 +65,7 @@
                 <div class="gallery-hover-overlay d-flex align-items-center justify-content-center">
                     <div class="port-hover-text text-center">
                         <h4>DFR Corp. Branding</h4>
-                       
+
                     </div>
                 </div>
             </div>
@@ -81,7 +85,7 @@
                 <div class="gallery-hover-overlay d-flex align-items-center justify-content-center">
                     <div class="port-hover-text text-center">
                         <h4>DFR Corp. Branding</h4>
-                        
+
                     </div>
                 </div>
             </div>
@@ -91,7 +95,7 @@
                 <div class="gallery-hover-overlay d-flex align-items-center justify-content-center">
                     <div class="port-hover-text text-center">
                         <h4>DFR Corp. Branding</h4>
-                        
+
                     </div>
                 </div>
             </div>
@@ -101,7 +105,7 @@
                 <div class="gallery-hover-overlay d-flex align-items-center justify-content-center">
                     <div class="port-hover-text text-center">
                         <h4>DFR Corp. Branding</h4>
-                        
+
                     </div>
                 </div>
             </div>
@@ -111,7 +115,7 @@
                 <div class="gallery-hover-overlay d-flex align-items-center justify-content-center">
                     <div class="port-hover-text text-center">
                         <h4>DFR Corp. Branding</h4>
-                        
+
                     </div>
                 </div>
             </div>
@@ -121,7 +125,7 @@
                 <div class="gallery-hover-overlay d-flex align-items-center justify-content-center">
                     <div class="port-hover-text text-center">
                         <h4>DFR Corp. Branding</h4>
-                        
+
                     </div>
                 </div>
             </div>
@@ -131,7 +135,7 @@
                 <div class="gallery-hover-overlay d-flex align-items-center justify-content-center">
                     <div class="port-hover-text text-center">
                         <h4>DFR Corp. Branding</h4>
-                       
+
                     </div>
                 </div>
             </div>
@@ -141,7 +145,7 @@
                 <div class="gallery-hover-overlay d-flex align-items-center justify-content-center">
                     <div class="port-hover-text text-center">
                         <h4>DFR Corp. Branding</h4>
-                        
+
                     </div>
                 </div>
             </div>
@@ -151,7 +155,7 @@
                 <div class="gallery-hover-overlay d-flex align-items-center justify-content-center">
                     <div class="port-hover-text text-center">
                         <h4>DFR Corp. Branding</h4>
-                       
+
                     </div>
                 </div>
             </div>
@@ -161,13 +165,13 @@
                 <div class="gallery-hover-overlay d-flex align-items-center justify-content-center">
                     <div class="port-hover-text text-center">
                         <h4>DFR Corp. Branding</h4>
-                        
+
                     </div>
                 </div>
             </div>
-         
+
 
     </section>
     <!-- ***** Portfolio Area End ***** -->
 
-   <?php include_once 'footer.php'; ?>
+<?php include_once 'footer.php'; ?>

@@ -976,10 +976,10 @@ span.accor-open {
 
 
 .footer-social-info>a {
-    color: #abadbe;
+    color: #007bff;
     padding: 0 15px;
     display: inline-block;
-    font-size: 13px;
+    font-size: 20px;
 }
 
 .footer-social-info>a:hover {
