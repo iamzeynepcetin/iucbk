@@ -39,12 +39,12 @@
             }
         });
     }
-
+	
+	//stopped animation of the workflof slide in mosh
+	
     if ($.fn.owlCarousel) {
         $(".mosh-workflow-slides").owlCarousel({
             items: 3,
-            loop: true,
-            autoplay: true,
             smartSpeed: 800,
             margin: 30,
             center: true,
