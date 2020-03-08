@@ -144,34 +144,27 @@
                             <div class="single-workflow-area d-flex">
                                 <h2>1.</h2>
                                 <div class="workflow-content ml-15">
-                                    <h4>This is the first step</h4>
-                                    <p>Etiam nec odio vestibulum est mattis effic iturut magna. Pellentesque sit am et tellus blandit. Etiam nec odio vestibul.</p>
+                                    <h4>Proje Komitemiz</h4>
+                                    <p>Proje komitemiz ile düzenli toplantılar yaparak öğrencilerimizi projeler planlamaları için cesaretlendiriyoruz.</p>
                                 </div>
                             </div>
                             <!-- Single Service Area -->
                             <div class="single-workflow-area d-flex">
                                 <h2>2.</h2>
                                 <div class="workflow-content ml-15">
-                                    <h4>This is the second step</h4>
-                                    <p>Etiam nec odio vestibulum est mattis effic iturut magna. Pellentesque sit am et tellus blandit. Etiam nec odio vestibul.</p>
+                                    <h4>Proje Yönetimi ve Ekip</h4>
+                                    <p>Hevesli ve ilgili arkadaşlarımıza ekip oluşturmaları için destek oluyor proje yönetimi hakkında mentörlük sağlıyoruz.</p>
                                 </div>
                             </div>
                             <!-- Single Service Area -->
                             <div class="single-workflow-area d-flex">
                                 <h2>3.</h2>
                                 <div class="workflow-content ml-15">
-                                    <h4>This is the third step</h4>
-                                    <p>Etiam nec odio vestibulum est mattis effic iturut magna. Pellentesque sit am et tellus blandit. Etiam nec odio vestibul.</p>
+                                    <h4>Üretim Süreci</h4>
+                                    <p>Üretim süreci boyunca yönetim kurulu olarak ekiplere destek oluyor, teknik kısımda birebir katkıda bulunuyoruz.</p>
                                 </div>
                             </div>
-                            <!-- Single Service Area -->
-                            <div class="single-workflow-area d-flex">
-                                <h2>4.</h2>
-                                <div class="workflow-content ml-15">
-                                    <h4>This is the fourth step</h4>
-                                    <p>Etiam nec odio vestibulum est mattis effic iturut magna. Pellentesque sit am et tellus blandit. Etiam nec odio vestibul.</p>
-                                </div>
-                            </div>
+                            
                         </div>
                     </div>
                 </div>
