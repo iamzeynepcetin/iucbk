@@ -41,7 +41,7 @@
                             <p data-filter=".gd">Projeler</p>
                             <p data-filter=".bi">Eğitimler</p>
                             <p data-filter=".pho">Sektör Buluşmaları</p>
-                            <p data-filter=".wd">CoffeeTalks</p>
+                            <p data-filter=".wd">coffeeTalks</p>
 							<p data-filter=".so">Sosyal Sorumluluk</p>
                         </div>
                     </div>

@@ -151,7 +151,7 @@
                     <div class="single-team-slide text-center col ">
                         <!-- Thumbnail -->
                         <div class="team-thumbnail">
-                            <img src="img/bg-img/eda.jpeg" alt="">
+                            <img src="img/bg-img/eda.png" alt="">
                         </div>
                         <!-- Meta Info -->
                         <div class="team-meta-info">
@@ -214,7 +214,7 @@
                     <div class="single-team-slide text-center col">
                         <!-- Thumbnail -->
                         <div class="team-thumbnail">
-                            <img src="img/bg-img/sinan.jpg" alt="">
+                            <img src="img/bg-img/sinan.png" alt="">
                         </div>
                         <!-- Meta Info -->
                         <div class="team-meta-info">
@@ -227,7 +227,7 @@
                     <div class="single-team-slide text-center col">
                         <!-- Thumbnail -->
                         <div class="team-thumbnail">
-                            <img src="img/bg-img/rahim.jpeg" alt="">
+                            <img src="img/bg-img/rahim.png" alt="">
                         </div>
                         <!-- Meta Info -->
                         <div class="team-meta-info">
