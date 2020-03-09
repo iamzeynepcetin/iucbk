@@ -7,9 +7,15 @@
             <!-- Single Hero Slides -->
             <div class="single-hero-slide d-flex align-items-end justify-content-center">
                 <div class="hero-slide-content text-center">
-                    <img class="slide-img" src="img/logo/slider1.jpeg" alt="">
+                    <img class="slide-img" src="img/logo/iucbk2.png" alt="">
                 </div>
             </div>
+			<!-- Single Hero Slides -->
+				<div class="single-hero-slide d-flex align-items-end justify-content-center">
+					<div class="hero-slide-content text-center">
+						<img class="slide-img" src="img/logo/slider3.png" alt="">
+					</div>
+				</div>	
             <!-- Single Hero Slides -->
             <div class="single-hero-slide d-flex align-items-end justify-content-center">
                 <div class="hero-slide-content text-center">

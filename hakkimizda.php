@@ -224,19 +224,8 @@
                                         class="fa fa-linkedin" aria-hidden="true"></i></a>
                         </div>
                     </div>
-                    <div class="single-team-slide text-center col">
-                        <!-- Thumbnail -->
-                        <div class="team-thumbnail">
-                            <img src="img/bg-img/rahim.png" alt="">
-                        </div>
-                        <!-- Meta Info -->
-                        <div class="team-meta-info">
-                            <h4>Rahim GÖKÇELİ</h4>
-                            <span>Proje Komitesi Başkanı</span>
-                            <a href="https://www.linkedin.com/in/rahim-g%C3%B6k%C3%A7eli-6a32b0156/"><i
-                                        class="fa fa-linkedin" aria-hidden="true"></i></a>
-                        </div>
-                    </div>
+					<!-- proje komitesi başkanı eklenecek -->
+                 
 
 
                     <div class="single-team-slide text-center col">
@@ -252,19 +241,8 @@
                                         class="fa fa-linkedin" aria-hidden="true"></i></a>
                         </div>
                     </div>
-                    <div class="single-team-slide text-center col">
-                        <!-- Thumbnail -->
-                        <div class="team-thumbnail">
-                            <img src="img/bg-img/aysu.jpg" alt="">
-                        </div>
-                        <!-- Meta Info -->
-                        <div class="team-meta-info">
-                            <h4>Aysu Nur TERZİ</h4>
-                            <span>Eğitim Komitesi Başkanı</span>
-                            <a href="https://www.linkedin.com/in/rahim-g%C3%B6k%C3%A7eli-6a32b0156/"><i
-                                        class="fa fa-linkedin" aria-hidden="true"></i></a>
-                        </div>
-                    </div>
+					<!-- eğitim komitesi başkanı eklenecek -->
+                    
                 </div>
             </div>
         </div>
