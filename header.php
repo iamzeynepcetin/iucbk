@@ -13,13 +13,13 @@
 
 </style>
     <meta charset="UTF-8">
-    <meta name="description" content="">
+    <meta name="description" content="İstanbul Üniversitesi Cerrahpaşa Bilgisayar Kulübü resmi web sitesidir.">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
     <!-- Title -->
-    <title>İUCBK</title>
+    <title>İÜC-Bilgisayar Kulübü</title>
 
     <!-- Favicon -->
     <link rel="icon" href="img/core-img/logo.ico">
@@ -60,7 +60,7 @@
                                 <ul class="navbar-nav animated" id="nav">
                                     <li class="nav-item <?php if(basename($_SERVER["SCRIPT_NAME"])=="index.php") echo "active";?> "><a class="nav-link" href="index.php">ANASAYFA</a></li>
                                     <li class="nav-item <?php if(basename($_SERVER["SCRIPT_NAME"])=="etkinlikler.php") echo "active";?>"><a class="nav-link" href="etkinlikler.php">ETKİNLİKLERİMİZ</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="bilfest/index.html">BİLFEST'20</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="https://bilfest.iucbk.com/">BİLFEST'20</a></li>
                                     <li class="nav-item <?php if(basename($_SERVER["SCRIPT_NAME"])=="hakkimizda.php") echo "active"; ?>"><a class="nav-link" href="hakkimizda.php">HAKKIMIZDA</a></li>
 									<li class="nav-item <?php if(basename($_SERVER["SCRIPT_NAME"])=="bize-katilin.php") echo "active";?>"><a class="nav-link" href="bize-katilin.php">BİZE KATILIN!</a></li>
 

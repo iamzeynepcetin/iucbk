@@ -162,21 +162,6 @@
 
                         </div>
                     </div>
-                    <!-- Single Team Slide -->
-                    <div class="single-team-slide text-center col">
-                        <!-- Thumbnail -->
-                        <div class="team-thumbnail">
-                            <img src="img/bg-img/zeynepc.jpg" alt="">
-                        </div>
-                        <!-- Meta Info -->
-                        <div class="team-meta-info">
-                            <h4>Zeynep ÇETİN</h4>
-                            <span>Yönetim Kurulu Finansal Direktörü</span>
-                            <a href="https://www.linkedin.com/in/zcetin/"><i class="fa fa-linkedin"
-                                                                             aria-hidden="true"></i></a>
-
-                        </div>
-                    </div>
 
                     <!-- Single Team Slide -->
                     <div class="single-team-slide text-center col">
@@ -211,6 +196,22 @@
                 </div>
                 <!-- Single Team Slide -->
                 <div class="row">
+                    <!-- Single Team Slide -->
+                    <div class="single-team-slide text-center col">
+                        <!-- Thumbnail -->
+                        <div class="team-thumbnail">
+                            <img src="img/bg-img/zeynepc.jpg" alt="">
+                        </div>
+                        <!-- Meta Info -->
+                        <div class="team-meta-info">
+                            <h4>Zeynep ÇETİN</h4>
+                            <span>Yönetim Kurulu Finansal Direktörü</span>
+                            <a href="https://www.linkedin.com/in/zcetin/"><i class="fa fa-linkedin"
+                                                                             aria-hidden="true"></i></a>
+
+                        </div>
+                    </div>
+
                     <div class="single-team-slide text-center col">
                         <!-- Thumbnail -->
                         <div class="team-thumbnail">
@@ -242,6 +243,20 @@
                         </div>
                     </div>
 					<!-- eğitim komitesi başkanı eklenecek -->
+					
+                    <div class="single-team-slide text-center col">
+                        <!-- Thumbnail -->
+                        <div class="team-thumbnail">
+                            <img src="img/bg-img/ezgi.jpg" alt="">
+                        </div>
+                        <!-- Meta Info -->
+                        <div class="team-meta-info">
+                            <h4>Ezgi DIVARCI</h4>
+                            <span>Eğitim Komitesi Başkanı</span>
+                            <a href="https://www.linkedin.com/in/ezgi-d%C4%B1varc%C4%B1-8723a11a0/"><i
+                                        class="fa fa-linkedin" aria-hidden="true"></i></a>
+                        </div>
+                    </div>
                     
                 </div>
             </div>

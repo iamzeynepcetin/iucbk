@@ -53,7 +53,7 @@ Header
         <nav id="nav-menu-container">
             <ul class="nav-menu">
                 <li class="menu-active"></li>
-                <li><a href="../index.php" style="color:#0079c9;">İÜ-CBK</a></li>
+                <li><a href="https://iucbk.com" style="color:#0079c9;">İÜ-CBK</a></li>
                 <li><a href="#about">Hakkında</a></li>
                 <li><a href="#schedule">Etkinlik Programı</a></li>
                 <li><a href="#venue">Ulaşım</a></li>

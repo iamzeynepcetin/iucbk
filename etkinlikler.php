@@ -18,13 +18,11 @@
     <div class="text-center">
         <h3 class="section_padding_0_50"> Etkinlik Takvimi </h3>
         <div class="row">
-            <div class="col "
-            ">
+            <div class="col ">
         </div>
-        <div class="col center" id="calendarContainer"></div>
-        <div class="col center " id="organizerContainer" style="display: none"></div>
-        <div class="col"
-        ">
+        <div class="col takvim" id="calendarContainer"></div>
+        <div class="col " id="organizerContainer" style="display: none"></div>
+        <div class="col">
     </div>
     </div>
     </div>

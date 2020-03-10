@@ -81,7 +81,7 @@
 <script src="https://cdn.rawgit.com/nizarmah/calendar-javascript-lib/master/calendarorganizer.min.js"></script>
 
 <script> // Basic config
-    var calendar = new Calendar("calendarContainer", "medium",
+    var calendar = new Calendar("calendarContainer", "small",
         ["Pzt", 3],
         ["#3C65B7", "#3C65B7", "#ffffff", "#ffffff"],
         {
@@ -106,11 +106,6 @@
                         startTime: "09:00",
                         endTime: "17:00",
                         text: "TEB'de 1 Gün "
-                    },
-                    {
-                        startTime: "12:00",
-                        endTime: "24:00",
-                        text: "BilfestBilfestBilfestBilfestBilfestBilfestBilfestBilfestBilfestBilfestBilfestBilfestBilfest"
                     },
                 ],
                 7: [
