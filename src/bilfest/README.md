@@ -1,2 +1,0 @@
-# iucbk bilfest web sayfası
-
